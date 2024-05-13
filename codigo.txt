@@ -1,0 +1,114 @@
+
+== COMPARAR VARIA A == VARIABLE V, RESULTADO FALSO O VERDADERO
+= ASIGNARLES VALOR A LAS VARIABLES
+=! diferentes
+ELIF: CONDICIONAL JUNTA
+IF OR ELSE
+DIV PARTE ENTERA
+MOD PORCENTAJES
+INPUT ENTRADA = INTPUT
+INT = PARA VALORES ENTEROS NUMERICOS
+OUTPUT SALIDA = PRINT
+CONVERSION ENTRE TIPOS DE DATOS:
+ENTEROS, DECIMALES, TEXTO A NUMEROS ENTEROS 
+TIPOS DE TEMRINOS 
+NUMERICOS BOOLEANOS Y CADENAS
+CADENAS:
+ACUMULATIVOS
+NUMERICOS:
+OPERABLES
+BOOLEANOS:
+ASIGNA VALOR DE VERDAD (F O V)
+L9MARIASANCHEZ1298124.py
+
+division real= / real
+division entera= // 
+division modular: procenatjes o residuos
+                                                                   PYTHON
+--------------------------------------------------------- L9+<MARIA SANCHEZ><1298124>----------------------------------------------------------------------------------
+print("Ejercicio : operaciones aritmeticas")
+
+numero1 = int(input("Ingrese un numero: "))
+numero2 = int(input("Ingrese otro numero: "))
+
+divisionReal=numero1/numero2
+divisionEntera= numero1//numero2
+Mod= numero1 % numero2 
+Suma=numero1+numero2
+Resta=numero1-numero2
+Multiplicacion=numero1*numero2
+
+print(numero1, "/", numero2, "=" , divisionReal)
+print(numero1, "//", numero2, "=" , divisionEntera)
+print(numero1, "%", numero2, "=" , mod)
+print(numero1, "+", numero2, "=" , Suma)
+print(numero1, "-", numero2, "=" , Resta)
+print(numero1, "*", numero2, "=" , Multiplicacion)
+
+print("Ejercicio 2: operaciones booleanas")
+
+igualdad = numero1 == numero2
+diferentes = numero != numero2
+mayor = numero1 > numero2
+menor = numero1<numero2
+
+print(numero1, "==", numero2, "=" , igualdad)
+print(numero1, "!=", numero2, "=" , diferentes)
+print(numero1, ">", numero2, "=" , mayor)
+print(numero1, "<", numero2, "=" , menor)
+
+print("Ejercicio 3: jerarquía de operadores")
+
+TAREA
+
+
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+PRINT("Actividad 3")
+print("Ejercicio 1: conversion")
+
+metro1 = int(input"INGRESE CANTIDAD DE METROS: ")
+km = metros1/1000
+print(f"km={km}")
+
+milla = metros1/1.609
+
+metro2 = int(input"INGRESE CANTIDAD DE METROS: ")
+yardas = 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
